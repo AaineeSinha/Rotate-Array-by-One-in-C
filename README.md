@@ -1,4 +1,3 @@
-# Rotate-Array-by-One-in-C
 #include <stdio.h>
 int main() {
     int n, last;
